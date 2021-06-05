@@ -23,12 +23,19 @@ The difference with Gerry on this process is that the "model" artworks came from
 <br>
 -copy the images generated from P1sonet Projects.
 <br>
-idea inspired from a 2020 artwork.
+<h3>Similar Ideas from our Previous Projects</h3>
+-Our projects basically is a spin-off from a previous projects. We are interested in the continuation of projects into another form.
 <br>
+-Our earlier paintings in 2009,2012 and 2019(Pay/View), the aesthetics were derived from the Street Art.(could be integraded in the Spin Off Paintings soon
+<br>
+-an artwork we did below a painting derived from a glitchy videocall
+<br>
+1st image: Image from low signal video call.
+<br>
+2nd image: Actual painting based on the screenshot of the call.
+
 ![model](https://user-images.githubusercontent.com/31743905/120885492-e0087780-c61b-11eb-922d-f3013231d023.jpg)
-<br>
-Image from low signal video call.
-<br>
+
 ![artwork](https://user-images.githubusercontent.com/31743905/120885496-e8f94900-c61b-11eb-9878-00f66725a834.jpg)
-<br>
-Actual painting based on the screenshot of the call.
+
+
