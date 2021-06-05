@@ -1,3 +1,5 @@
+![model](https://user-images.githubusercontent.com/31743905/120885492-e0087780-c61b-11eb-922d-f3013231d023.jpg)
+![artwork](https://user-images.githubusercontent.com/31743905/120885496-e8f94900-c61b-11eb-9878-00f66725a834.jpg)
 # spin-off-paintings
 paintings derived from P1sonet(net art projects)
 <h3>info</h3>
