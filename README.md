@@ -30,7 +30,7 @@ The difference with Gerry on this process is that the "model" artworks came from
 <br>
 -an artwork we did below a painting derived from a glitchy videocall
 <br>
-1st image: Image from low signal video call.
+1st image: screenshot from low signal video call.
 <br>
 2nd image: Actual painting based on the screenshot of the call.
 
